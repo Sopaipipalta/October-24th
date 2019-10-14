@@ -1,0 +1,362 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "OCTOBER 24th\n[[ Wake up |wakeup ]] ",
+		"position": {
+			"x": -11370,
+			"y": -6180
+		},
+		"colorID": 0
+	},
+	{
+		"title": "wakeup",
+		"tags": "",
+		"body": "3:00 am \r\nReally?.. I can't even sleep on my birthday\r\n[[ try to go back to sleep |Rollinbed ]]\r\n[[ Ramble |Ramble]] \r\n[[ Turn the light on |Turnlight ]] ",
+		"position": {
+			"x": -11038,
+			"y": -6179
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Rollinbed",
+		"tags": "",
+		"body": "An hour rolling on the bed and I still can't go back to sleep\n[[ Ramble |Ramble ]]",
+		"position": {
+			"x": -10653,
+			"y": -6408
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ramble",
+		"tags": "",
+		"body": "And that's why chickens can’t fly\n[[ Keep rambling |Ramble1 ]] ",
+		"position": {
+			"x": -10320,
+			"y": -6324
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Turnlight",
+		"tags": "",
+		"body": "The only thing that i can do this late without waking anyone up is play some games.Maybe Tommy is awake \n[[ Text Tommy |Text ]] \n[[ I don't feel like playing with anyone|Playalone ]]",
+		"position": {
+			"x": -11038,
+			"y": -5847
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Text",
+		"tags": "",
+		"body": "Cool\n[[ I should connect now|Play ]] \n[[ I should close the door before |DoorClosed ]]",
+		"position": {
+			"x": -11348,
+			"y": -5548
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ramble1",
+		"tags": "",
+		"body": "I shouldn't have said that 3 years ago, that was so embarrassing\n[[Keep Rambling | Ramble2]] \n[[Turn on the light|Turnlight ]]",
+		"position": {
+			"x": -10197,
+			"y": -6044
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Play",
+		"tags": "",
+		"body": "(LAUGHS)\r\nMOM:Why are you awake this late?\r\n -I couldn't sleep, So ..I just thought it would be okay to just be in the computer until I was time to have breakfast\r\nMOM:Try to have some more sleep, people are coming to see you later.\r\n -I tried, but I couldn't\r\n MOM:Just try again (walks out)\r\n[[Oops hahaha,I'll just keep playing quietly|PlayQuiet]]",
+		"position": {
+			"x": -11352,
+			"y": -5253
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DoorClosed",
+		"tags": "",
+		"body": "Awesome,now I can Play without waking people up\n[[ HARDCORE PLAYING |Nextday ]]",
+		"position": {
+			"x": -11037,
+			"y": -5555
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Nextday",
+		"tags": "",
+		"body": "9:00 am\r\nMOM: we should get going, I have a lot of things to do before your party.\r\n-Who's even coming?\r\nMOM: Everyone, your cousins, uncles and aunties, your grandparents and their relatives, my friends, and I invited 3 other couples that are friends of our friends so they can meet you as well.\r\n*Why are we celebrating? There's no reason to do this entire show, I don't want all of this strangers in my house… I don't even want my family here, none of them have ever put any interest on who I am.\r\nwhy didn't have a nice relaxing afternoon just the 6 of us? Why inviting people that literally don't know who I am?\r\nI don't want to deal with…THEM…. Just thinking about having to say hi to THEM It makes me want to throw up, and I haven't even seen them*\r\nMOM: ..We are going to have a great time, I hope you get out of your room, you should share with the family, I don't want anything to go wrong today, everything will be perfect.\r\n[[ next |next ]]",
+		"position": {
+			"x": -11039,
+			"y": -4950
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ramble2",
+		"tags": "",
+		"body": "What if I get trapped on a lift and it falls down?\nIf I keep doing this I'll have a panic attack\n[[Turn on the light|Turnlight ]]",
+		"position": {
+			"x": -10197,
+			"y": -5790
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Playalone",
+		"tags": "",
+		"body": "This is nice, so peaceful and quiet\n[[ Wow,look at the time! |Nextday ]]",
+		"position": {
+			"x": -10700,
+			"y": -5554
+		},
+		"colorID": 0
+	},
+	{
+		"title": "PlayQuiet",
+		"tags": "",
+		"body": "Damn it I should have closed the door\n[[ Hopefully by the morning she won't be mad |Nextday ]]",
+		"position": {
+			"x": -11350,
+			"y": -4949
+		},
+		"colorID": 0
+	},
+	{
+		"title": "next",
+		"tags": "",
+		"body": "*We bought all the groceries for the evening, I couldn’t stop thinking about how to avoid having to interact with everyone, especially THEM. But I couldn’t tell my mom that I didn’t want to do anything, she has been planning this party the whole month,even though she didn’t ask me if I wanted to do something I feel if I don’t accept her decision it would be disrespectful and that I’m not grateful for the effort that she’s putting into making me happy.\r\nI tried to tell her that I would rather do something small but she ended up inviting an absurd amount of people*\r\n[[Let's get this party started|Party ]]",
+		"position": {
+			"x": -10738,
+			"y": -4951
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Party",
+		"tags": "",
+		"body": "*I usually talk a lot with my nanny, I would say she knows me better than my own mom,at least she respects and maybe understand my point of view, we  have a really good relationship ; I love my mom ,don't get me wrong, but sometimes she just don't listen to me,is like talking to a wall*\nDoorbell Rings\nMOM: Honey!, people are arriving, go and open the door, invite them in.\n[[ Open door|open ]]",
+		"position": {
+			"x": -10482,
+			"y": -4951
+		},
+		"colorID": 0
+	},
+	{
+		"title": "open",
+		"tags": "",
+		"body": "*People started arriving, \"I need to relax, nothing is going to happen,THEY probably won't even show up\" ; I kept saying that on my mind to try to have a good time*\r\nDo you want something to drink?I think I'll go and grab something quickly\r\n(Before I could even stand up from, the table the doorbell rang)\r\nCold sweat runs through my back,I'm starting to panic.\r\n[[ answer door |next1 ]]",
+		"position": {
+			"x": -10222,
+			"y": -4951
+		},
+		"colorID": 0
+	},
+	{
+		"title": "next1",
+		"tags": "",
+		"body": "Yes?\r\n*They arrived, why,why,why,why,why…..*\r\nMOM:Open the door please\r\n*I don't even want to look at them*\r\n[[ Open |Open ]]",
+		"position": {
+			"x": -9970,
+			"y": -4949
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Open",
+		"tags": "",
+		"body": "THEM:HEEEYYY, Happy birthday, aren’t you happy to see us?\r\n*yeah, I’m going to need a big glass of rum*\r\n[[ Hi thanks for coming , come in , grab something to eat :) |pretend ]] \r\n[[ Hi |pretend ]] \r\n",
+		"position": {
+			"x": -9972,
+			"y": -5194
+		},
+		"colorID": 0
+	},
+	{
+		"title": "pretend",
+		"tags": "",
+		"body": "*Pretend that everything is okay,Just say hi to THEM and then avoid THEM*\nAunt Q: How‘s school going?\n[[ Fine |question2 ]]\n[[ GREAT *Drinks* |question2a ]]\n[[ I think someone is calling me |goto ]]",
+		"position": {
+			"x": -9971,
+			"y": -5437
+		},
+		"colorID": 0
+	},
+	{
+		"title": "question2",
+		"tags": "",
+		"body": "Fine I guess, I’m not really into it , i much rather…*gets interrupted*\nAunt Q: Oh! I’m so glad to hear that, is you boyfriend here?\n[[ Emm… I don’t have a boyfriend |question3 ]] \n[[ DRINK |question3a ]] \n[[ I think someone is calling me |goto ]]",
+		"position": {
+			"x": -9690,
+			"y": -5666
+		},
+		"colorID": 0
+	},
+	{
+		"title": "question2a",
+		"tags": "",
+		"body": "Great\nAunt Q:Oh! I’m so glad to hear that, is you boyfriend here?\n[[IGNORE AND DRINK |question3a ]] \n[[IGNORE AND DRINK |question3a ]] \n[[ I think someone is calling me |goto ]]",
+		"position": {
+			"x": -9377,
+			"y": -5665
+		},
+		"colorID": 0
+	},
+	{
+		"title": "goto",
+		"tags": "",
+		"body": "*Where should I go?*\n[[ Go to room |ROOM ]] \n[[ Go to kitchen |Kitchen ]]",
+		"position": {
+			"x": -9022,
+			"y": -5580
+		},
+		"colorID": 0
+	},
+	{
+		"title": "question3",
+		"tags": "",
+		"body": "Aunt Q:When are you going to bring someone home ?\r\n[[ I'm not really into anyone at the moment,I have to go now|goto ]] \r\n[[IGNORE AND DRINK |question3a ]] \r\n[[ I think someone is calling me |goto ]]",
+		"position": {
+			"x": -9679,
+			"y": -5332
+		},
+		"colorID": 0
+	},
+	{
+		"title": "question3a",
+		"tags": "",
+		"body": "Aunt Q:.......?\r\n*I know she's asking something, but I really don't care,I'm feeling a bit weird*\r\n[[ DRINK |Passout ]] \r\n[[ DRINK |Passout ]] \r\n[[ DRINK |Passout ]]",
+		"position": {
+			"x": -9368,
+			"y": -5336
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Passout",
+		"tags": "",
+		"body": "*Pass out*\n[[ THE END |End ]]",
+		"position": {
+			"x": -9364,
+			"y": -5056
+		},
+		"colorID": 0
+	},
+	{
+		"title": "End",
+		"tags": "",
+		"body": "Happy Birthday",
+		"position": {
+			"x": -9358,
+			"y": -4759
+		},
+		"colorID": 0
+	},
+	{
+		"title": "ROOM",
+		"tags": "",
+		"body": "*I'm so tired, I need a minute to recover some energy, maybe I can rest in my room for 10 minutes*\nI walked into my room, I'm laying on top of my bed.\n*This is so nice,I really needed this*\nMOM:Honey!?,what are you doing? people are waiting for you, get out of your room\n[[Okay,I'm on my way|Kitchen ]]",
+		"position": {
+			"x": -9002,
+			"y": -5286
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Kitchen",
+		"tags": "",
+		"body": "Nanny: hey, how are you? Are you enjoying the party?\r\n[[ Yes, is great, maybe we should bring the cake out | A]] \r\n[[ Not really| B]]\r\n[[ I feel a bit sick *wink wink* , can you do me a favor? |C ]]",
+		"position": {
+			"x": -8707,
+			"y": -5529
+		},
+		"colorID": 0
+	},
+	{
+		"title": "A",
+		"tags": "",
+		"body": "Nanny:No problem!, Give me a minute.\n[[ go to the living room |A2 ]]",
+		"position": {
+			"x": -8705,
+			"y": -5278
+		},
+		"colorID": 0
+	},
+	{
+		"title": "B",
+		"tags": "",
+		"body": "I actually wanted to spend this day alone, you know I like to have my space and being around people that I feel comfortable with.\nI feel very invaded now, i don't know more than half of the people here. \nI don't want to fight with my mom , she doesn't deserve that.\n*to be honest she doesn’t deserve to have me her child*\nNanny:Oh Honey!that sucks, you know what we could do?, I will bring the cake out and after that you can come here and hang out with me until everyone is gone.\n[[ Sounds nice, thank you|End2 ]]",
+		"position": {
+			"x": -8424,
+			"y": -5275
+		},
+		"colorID": 0
+	},
+	{
+		"title": "C",
+		"tags": "",
+		"body": "Nanny:*wink back*\"Sure Honey, what can I do for you?\r\nCan you bring the cake out? , I just wanna be in my room until everyone is gone.\r\nNanny:Sure, do you want me to bring you something after that?\r\n[[ YES please,Can you bring me some food?, just knock on the door and I will open| yes]] \r\n[[  Just a glass of fizzy would be nice, I can grab something to eat on the way.|fizzy ]] \r\n[[ No it's fine|End3 ]]",
+		"position": {
+			"x": -8138,
+			"y": -5270
+		},
+		"colorID": 0
+	},
+	{
+		"title": "A2",
+		"tags": "",
+		"body": "While people sing happy birthday\r\n*I have only one wish, I just want to forget everything* \r\n[[ Blow your canddles |End3 ]]",
+		"position": {
+			"x": -8708,
+			"y": -5024
+		},
+		"colorID": 0
+	},
+	{
+		"title": "End3",
+		"tags": "",
+		"body": "After eating a piece of the cake I sneak a bottle of rum into my room and locked the door .\r\nI drank until I stopped feeling,I couldn't recognize myself in the mirror, I felt like a stranger in my own body, but I stopped caring.\r\n\r\n[[ Deep inside I wished that I would stop existing|End ]]",
+		"position": {
+			"x": -8899,
+			"y": -4728
+		},
+		"colorID": 0
+	},
+	{
+		"title": "End2",
+		"tags": "",
+		"body": "After we sang Happy birthday , I actually had a nice chat with my nanny.\r\n*I feel much safer now that I don't have to share with THEM, I can breathe normally, even if they come around, my nanny can make anyone go away from the kitchen* \r\n It made me feel a lot better, even though every 5 minutes someone came around to tell me that I was being disrespectful by not being with my guests.\r\n[[ Thanks |End ]]",
+		"position": {
+			"x": -8431,
+			"y": -5030
+		},
+		"colorID": 0
+	},
+	{
+		"title": "yes",
+		"tags": "",
+		"body": "After singing I told my family that I wasn’t feeling great so I was going to stay in my room, my mom a bit worried asked me if everything was okay, I told her that it was nothing, just a headache, she gave me a paracetamol; Once in my room, I threw the pill away, turned on the computer and ate,I ate until I drowned the sadness and anger away, after that i just wanted to throw up, I was embarrassed of how much I ate, but I rather that than the disgusting sensation that I felt looking at the people that hurt me. \n[[At least now I was safe in my room, with food that made me feel better. |End ]]",
+		"position": {
+			"x": -8115,
+			"y": -5564
+		},
+		"colorID": 0
+	},
+	{
+		"title": "fizzy",
+		"tags": "",
+		"body": "I was ready to leave to my room, I told everyone that I wasn't feeling alright, I grabbed a plate and I made myself a sandwich, I also grabbed a piece of cake and some chips; I was about to leave when I hear my grandfather yell at me\r\nTHAT'S WHY YOU LOOK LIKE A WHALE\r\n [[ I said nothing and slammed the door behind me, I spend the rest of my birthday crying until I passed out.|End ]]",
+		"position": {
+			"x": -8129,
+			"y": -4888
+		},
+		"colorID": 0
+	}
+]
